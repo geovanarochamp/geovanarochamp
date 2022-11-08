@@ -6,8 +6,8 @@ About me:
 
 - 💻 I'm web developer
 - 🚀 HTML | CSS | JavaScript
-- 🌱 I’m currently learning React
-- ✨ I believe technology can bring more quality of life for the world.
+- 🌱 I’m currently <b>learning React</b>
+- ✨ I believe <b>technology</b> can bring more <b>quality of life</b> for the world.
 - ⚡ Fun fact: <b>Mother of twins</b>
 
 📖 Never stop learning.
