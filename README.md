@@ -7,7 +7,7 @@ About me:
 - 💻 I'm web developer
 - 🚀 HTML | CSS | JavaScript
 - 🌱 I’m currently learning React
-- ✨ I try to help people who are studying programming on Youtube and Twitch
+- ✨ I believe technology can bring more quality of life for the world.
 - ⚡ Fun fact: <b>Mother of twins</b>
 
 📖 Never stop learning.
