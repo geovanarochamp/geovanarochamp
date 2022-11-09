@@ -12,6 +12,6 @@ About me:
 
 📖 Never stop learning.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geovanarochamp&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geovanarochamp&show_icons=true&theme=radical)
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=geovanarochamp&layout=compact)](https://github.com/geovanarochamp/github-readme-stats)
