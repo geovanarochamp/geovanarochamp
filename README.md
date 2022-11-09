@@ -11,3 +11,7 @@ About me:
 - ⚡ Fun fact: <b>Mother of twins</b>
 
 📖 Never stop learning.
+
+![Geovana Rocha Status](https://github-readme-stats.vercel.app/api?username=geovanarochamp&show_icons=true)
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=geovanarochamp&layout=compact)](https://github.com/geovanarochamp/github-readme-stats)
