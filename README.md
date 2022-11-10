@@ -1,6 +1,6 @@
 <img src="https://github.com/geovanarochamp/geovanarochamp/blob/main/cover.png?raw=true">
 
-### Hi there 👋
+### Hello! 👋
 
 About me:
 
