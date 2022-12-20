@@ -12,4 +12,12 @@ About me:
 
 📖 Never stop learning.
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=geovanarochamp&layout=compact)](https://github.com/geovanarochamp/github-readme-stats)
+<table border="0">  
+   <tr>
+    <td>[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=geovanarochamp&layout=compact)](https://github.com/geovanarochamp/github-readme-stats)</td>
+    <td>[![GitHub Streak](https://streak-stats.demolab.com?user=geovanarochamp&hide_border=true)](https://git.io/streak-stats)</td>
+ </tr>
+</table>
+
+
+
