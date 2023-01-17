@@ -1,4 +1,4 @@
-<img src="https://github.com/geovanarochamp/geovanarochamp/blob/main/cover.png?raw=true">
+<img src="https://github.com/geovanarochamp/geovanarochamp/blob/main/newcover.png?raw=true">
 
 ### Hello! 👋
 
