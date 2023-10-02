@@ -4,7 +4,7 @@
 
 About me:
 
-- 💻 I'm web developer
+- 💻 I'm front-end developer
 - 🚀 React | Next.JS
 - ✨ I believe <b>technology</b> can bring more <b>quality of life</b> for the world.
 - ⚡ Fun fact: <b>Mother of twins</b>
